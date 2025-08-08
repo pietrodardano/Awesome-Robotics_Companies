@@ -1,5 +1,3 @@
-# European Robotics Companies and Organizations
-
 ## Categories & Quick Links
 - [🏭 Established Companies](#established-companies)
   - [Industrial Manufacturing](#industrial-manufacturing)
