@@ -28,16 +28,27 @@
 | FANUC Europe | Luxembourg | CNC systems, industrial robots | [Website](https://www.fanuc.eu) • [Careers](https://www.fanuc.eu/uk/en/career) • [Linkedin](https://www.linkedin.com/company/fanuc-europe/) |
 | Franka Emika | Germany | Collaborative robots | [Website](https://www.franka.de) • [Careers](https://www.franka.de/career/) • [Linkedin](https://www.linkedin.com/company/franka-emika/) |
 | KUKA | Germany | Industrial robots, cobots | [Website](https://www.kuka.com) • [Careers](https://www.kuka.com/careers) • [Linkedin](https://www.linkedin.com/company/kuka/) |
-| StÃ¤ubli Robotics | Switzerland | Industrial robots | [Website](https://www.staubli.com/robotics) • [Careers](https://www.staubli.com/en/career/) • [Linkedin](https://www.linkedin.com/company/staubli/) |
+| StÃubli Robotics | Switzerland | Industrial robots | [Website](https://www.staubli.com/robotics) • [Careers](https://www.staubli.com/en/career/) • [Linkedin](https://www.linkedin.com/company/staubli/) |
 | Universal Robots | Denmark | Collaborative robots | [Website](https://www.universal-robots.com) • [Careers](https://www.universal-robots.com/careers/) • [Linkedin](https://www.linkedin.com/company/universal-robots-a-s/) |
 
-### Service Humanoid
+### Service - Humanoid
 
 | Name | Location | Specialization | Links |
 |------|----------|----------------|-------|
 | Blue Ocean Robotics | Denmark | Professional service robots | [Website](https://www.blue-ocean-robotics.com) • [Careers](https://www.blue-ocean-robotics.com/career) • [Linkedin](https://www.linkedin.com/company/blue-ocean-robotics/) |
 | PAL Robotics | Spain | Humanoid & service robots | [Website](https://www.pal-robotics.com) • [Careers](https://pal-robotics.com/jobs/) • [Linkedin](https://www.linkedin.com/company/pal-robotics/) |
 | Softbank Robotics Europe | France | Humanoid robots | [Website](https://www.softbankrobotics.com) • [Careers](https://www.softbankrobotics.com/emea/en/company/careers) • [Linkedin](https://www.linkedin.com/company/softbank-robotics/) |
+| Neura Robotics | Germany | Cognitive robots, humanoid platforms | [Website](https://www.neura-robotics.com) • [Careers](https://www.neura-robotics.com/career/) • [Linkedin](https://www.linkedin.com/company/neura-robotics/) |
+| Engineered Arts | UK | Humanoid robots entertainment & research | [Website](https://www.engineeredarts.co.uk) • [Careers](https://www.engineeredarts.co.uk/careers/) • [Linkedin](https://www.linkedin.com/company/engineered-arts/) |
+| Robotis Europe | France | Humanoid robotics platforms | [Website](https://www.robotis.com) • [Linkedin](https://www.linkedin.com/company/robotis/) |
+| Hanson Robotics | UK | Humanoid robots | [Website](https://www.hansonrobotics.com) • [Linkedin](https://www.linkedin.com/company/hanson-robotics/) |
+| Pollen Robotics | France | Open-source humanoid robots | [Website](https://www.pollen-robotics.com) • [Linkedin](https://www.linkedin.com/company/pollen-robotics/) |
+| Robolab | Spain | Educational humanoid robots | [Website](https://www.robolab.es) • [Linkedin](https://www.linkedin.com/company/robolab/) |
+| Robot Dream | Germany | Humanoid robotics R&D | [Website](https://robotdream.de) • [Linkedin](https://www.linkedin.com/company/robot-dream/) |
+| 1X Technologies | Norway | Humanoid robots for labor automation | [Website](https://www.1x.tech) • [Careers](https://www.1x.tech/careers) • [Linkedin](https://www.linkedin.com/company/1x-technologies/) |
+| Figure AI | US | General-purpose humanoid robots | [Website](https://www.figure.ai) • [Careers](https://www.figure.ai/careers) • [Linkedin](https://www.linkedin.com/company/figure-ai/) |
+| Unitree Robotics | China | Affordable humanoid and quadruped robots | [Website](https://www.unitree.com) • [Linkedin](https://www.linkedin.com/company/unitree-robotics/) |
+| Humanoid | UK | Humanoid robots| [Website](https://humanoid.fr) • [Linkedin](https://www.linkedin.com/company/humanoid/) |
 
 ### Mobile Logistics
 
@@ -46,6 +57,10 @@
 | Mobile Industrial Robots | Denmark | Autonomous mobile robots | [Website](https://www.mobile-industrial-robots.com) • [Careers](https://www.mobile-industrial-robots.com/careers/) • [Linkedin](https://www.linkedin.com/company/mobile-industrial-robots/) |
 | Robotnik | Spain | Mobile platforms | [Website](https://www.robotnik.eu) • [Careers](https://www.robotnik.eu/jobs/) • [Linkedin](https://www.linkedin.com/company/robotnik/) |
 | SAFELOG | Germany | Warehouse automation | [Website](https://www.safelog.de) • [Careers](https://www.safelog.de/en/careers/) • [Linkedin](https://www.linkedin.com/company/safelog-gmbh/) |
+| E&K Automation | Germany | Automated guided vehicles (AGVs) | [Website](https://www.ek-automation.com) • [Careers](https://www.ek-automation.com/en/career/) • [Linkedin](https://www.linkedin.com/company/ek-automation/) |
+| ASTI Mobile Robotics | Spain | Industrial mobile robots | [Website](https://www.astimobilerobotics.com) • [Careers](https://www.astimobilerobotics.com/en/careers/) • [Linkedin](https://www.linkedin.com/company/asti-mobile-robotics/) |
+| BlueBotics | Switzerland | Autonomous navigation for mobile robots | [Website](https://www.bluebotics.com) • [Careers](https://www.bluebotics.com/careers/) • [Linkedin](https://www.linkedin.com/company/bluebotics-sa/) |
+| AGILOX | Austria | Intelligent mobile robots for logistics | [Website](https://www.agilox.net) • [Careers](https://www.agilox.net/en/career/) • [Linkedin](https://www.linkedin.com/company/agilox-services-gmbh/) |
 
 ### Defense Military
 
@@ -78,6 +93,9 @@
 |------|----------|----------------|-------|
 | ANYbotics | Switzerland | Quadruped robots | [Website](https://www.anybotics.com) • [Careers](https://www.anybotics.com/careers/) • [Linkedin](https://www.linkedin.com/company/anybotics/) |
 | Hybrid Robotics | UK | Legged robots | [Website](https://hybrid-robotics.com) • [Careers](https://hybrid-robotics.com/careers/) • [Linkedin](https://www.linkedin.com/company/hybrid-robotics/) |
+| Agile Robots | Germany | Agile legged robots | [Website](https://www.agilerobots.com) • [Careers](https://www.agilerobots.com/en/career/) • [Linkedin](https://www.linkedin.com/company/agile-robots-ag/) |
+| Robotis Europe | France | Legged robotics platforms | [Website](https://www.robotis.com) • [Linkedin](https://www.linkedin.com/company/robotis/) |
+| Unitree Robotics | China | Affordable quadruped robots | [Website](https://www.unitree.com) • [Linkedin](https://www.linkedin.com/company/unitree-robotics/) |
 
 ### Warehouse Logistics
 
@@ -105,12 +123,16 @@
 
 ### Components
 
-| Name | Location | Specialization | Links |
-|------|----------|----------------|-------|
-| OptoForce | Hungary | Sensors and robotic touch technology | [Website](https://optoforce.com/) |
-| Roboception | Germany | 3D vision systems for robots | [Website](https://roboception.com/) |
-| ROEQ | Denmark | Robotic equipment for AMRs | [Website](https://www.roeq.dk/) |
-| Robotiq | France | End-of-arm tooling for cobots | [Website](https://robotiq.com/) |
+| Name         | Location    | Specialization                        | Links                                      |
+|--------------|-------------|----------------------------------------|--------------------------------------------|
+| OptoForce    | Hungary     | Sensors and robotic touch technology   | [Website](https://optoforce.com/)          |
+| Roboception  | Germany     | 3D vision systems for robots           | [Website](https://roboception.com/)        |
+| ROEQ         | Denmark     | Robotic equipment for AMRs             | [Website](https://www.roeq.dk/)            |
+| Robotiq      | France      | End-of-arm tooling for cobots          | [Website](https://robotiq.com/)            |
+| Contactile   | Australia   | Tactile sensors for robotics           | [Website](https://www.contactile.com/)     |
+| XELA Robotics| Netherlands | Tactile sensor arrays                  | [Website](https://xelarobotics.com/)       |
+| Stereolabs   | France      | 3D vision and depth cameras            | [Website](https://www.stereolabs.com/)     |
+| IntelRealSense | USA      | Depth cameras and vision modules       | [Website](https://www.intelrealsense.com/) |
 
 ## Research Centers
 
@@ -141,7 +163,6 @@
 |------|------|
 | EU Robotics Jobs | [Link](https://www.eu-robotics.net/jobs/) |
 | Robotics Worldwide | [Link](http://robotics-worldwide.org/) |
-| Jobs in Robotics | [Link](https://www.jobsinrobotics.eu/) |
 
 ### Conferences Events
 
@@ -149,7 +170,9 @@
 |------|------|
 | IROS | [Link](https://www.iros.org/) |
 | ICRA | [Link](https://www.icra.org/) |
-| European Robotics Forum | [Link](https://www.eu-robotics.net/robotics_forum/) |
+| CASE | [Link](https://www.ieee-case.org/) |
+| RO-MAN | [Link](https://ro-man2025.org/) |
+| ICAR | [Link](https://www.ieee-icar.org/) |
 
 ### Professional Networks
 
