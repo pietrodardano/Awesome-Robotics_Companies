@@ -161,6 +161,7 @@
 |------|------|
 | EU Robotics Jobs | [Link](https://www.eu-robotics.net/jobs/) |
 | Robotics Worldwide | [Link](http://robotics-worldwide.org/) |
+| Robot Jobs Board | [Link](https://www.robotjobsboard.com) |
 
 ### Conferences Events
 
